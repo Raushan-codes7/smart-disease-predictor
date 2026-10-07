@@ -1,0 +1,2 @@
+Model,Accuracy,Precision (Macro),Precision (Weighted),Recall (Macro),Recall (Weighted),F1-Score (Macro),F1-Score (Weighted)
+Random Forest Disease Predictor,1.0,1.0,1.0,1.0,1.0,1.0,1.0
